@@ -1,3 +1,4 @@
 # Graphic Design and Programming Course
 
-Course Description
+## Course Description
+What is this course about?
